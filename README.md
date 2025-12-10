@@ -169,20 +169,6 @@ npm run deploy
 4. Отправьте в ветку (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
 
-## 📄 Лицензия
-
-Этот проект распространяется под лицензией MIT. См. файл `LICENSE` для подробностей.
-
-## 👨‍💻 Автор
-
-**Ваше имя**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
-
-## 🙏 Благодарности
-
-- Vue.js команде за отличный фреймворк
-- Сообществу разработчиков за вдохновение
 - Всем, кто тестировал и давал обратную связь
 
 ---
